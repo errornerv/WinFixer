@@ -70,5 +70,4 @@ If you have any questions or run into issues:
 
 GitHub Issues: Open an issue
 
-
 Built with ❤️ by Ali Samadian
