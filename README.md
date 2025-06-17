@@ -24,6 +24,7 @@ Requirements
 Operating System: Windows 10 or 11 (not compatible with macOS or Linux).
 Administrator Access: You must run the tool as an administrator.
 
+
 ⚠️ No additional software is required. You don’t need to install Python or any other dependencies—the tool is fully self-contained.
 How to Use
 
